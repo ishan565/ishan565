@@ -219,13 +219,3 @@ Personalized educational experience with AI integration
 ![Profile Views](https://komarev.com/ghpvc/?username=ishangupta-ds&label=Profile%20views&color=0e75b6&style=flat)
 
 </div>
-
-<div align="center">
-  
-### 🔥 Contribution Streak & Stats
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishangupta-ds&theme=tokyonight" alt="Profile Summary"/>
-- 💻 Most Used Languages Over Time
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishangupta-ds&theme=tokyonight" alt="Top Languages by Commits"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishangupta-ds&theme=tokyonight" alt="Top Languages by Repos"/>
-</div>
