@@ -220,9 +220,12 @@ Personalized educational experience with AI integration
 
 </div>
 
-🔥 Contribution Streak & Stats
+<div align="center">
+  
+### 🔥 Contribution Streak & Stats
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishangupta-ds&theme=tokyonight" alt="Profile Summary"/>
-💻 Most Used Languages Over Time
+- 💻 Most Used Languages Over Time
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishangupta-ds&theme=tokyonight" alt="Top Languages by Commits"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishangupta-ds&theme=tokyonight" alt="Top Languages by Repos"/>
 </div>
