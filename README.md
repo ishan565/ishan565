@@ -95,7 +95,7 @@
 - 📈 DTI and delinquency trend analysis
 - 🎯 Advanced DAX measures and KPIs
 
-###🎯 Smart India Hackathon 2024 - Career Counselling Platform
+### 🎯 Smart India Hackathon 2024 - Career Counselling Platform
 Full-stack personalized career guidance system
 
 🧭 AI-driven career path recommendations
@@ -106,7 +106,7 @@ Full-stack personalized career guidance system
 🏆 Achievement: Selected for Smart India Hackathon 2024
 Tech Stack: React.js, Node.js, Express, MongoDB, ML algorithms
 
-###🌐 Neovatech Official Website
+### 🌐 Neovatech Official Website
 Corporate website development and optimization
 
 📈 30% increase in site traffic within first month
@@ -117,7 +117,7 @@ Corporate website development and optimization
 Role: Web Development Intern (Jan 2025 - April 2025)
 Tech Stack: React.js, Next.js, JavaScript, CSS
 
-###🧳 Expocity Travels - CRM & Website
+### 🧳 Expocity Travels - CRM & Website
 Complete digital transformation project
 
 💼 CRM System: Built from scratch to handle 200+ leads/month
@@ -128,7 +128,7 @@ Complete digital transformation project
 Role: Freelance Lead Developer (December 2024)
 Tech Stack: Next.js, React.js, SQL, Node.js, Express
 
-###♻️ EcoSort - Smart Waste Sorting Platform
+### ♻️ EcoSort - Smart Waste Sorting Platform
 AI-powered waste classification and management system
 
 🤖 Computer Vision model for automatic waste categorization
@@ -139,7 +139,7 @@ AI-powered waste classification and management system
 🏆 Promotes environmental awareness and proper waste disposal
 Tech Stack: React.js, Python, TensorFlow, OpenCV, Node.js, MongoDB
 
-###📚 AI Exam Prep - PDF Summarizer
+### 📚 AI Exam Prep - PDF Summarizer
 Intelligent study companion with AI-powered summarization
 
 🧠 Advanced NLP for PDF content extraction and summarization
@@ -150,7 +150,7 @@ Intelligent study companion with AI-powered summarization
 📊 Study progress tracking and performance analytics
 
 
-###🤖 AI-Based Learning Platform
+### 🤖 AI-Based Learning Platform
 Personalized educational experience with AI integration
 
 🎓 Adaptive learning paths based on user performance
