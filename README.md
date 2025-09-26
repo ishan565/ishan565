@@ -95,6 +95,71 @@
 - 📈 DTI and delinquency trend analysis
 - 🎯 Advanced DAX measures and KPIs
 
+###🎯 Smart India Hackathon 2024 - Career Counselling Platform
+Full-stack personalized career guidance system
+
+🧭 AI-driven career path recommendations
+👤 Personalized suggestions based on user profiles
+🎓 Career interest analysis and matching algorithm
+📝 Interactive questionnaires and assessments
+📊 Analytics dashboard for career insights
+🏆 Achievement: Selected for Smart India Hackathon 2024
+Tech Stack: React.js, Node.js, Express, MongoDB, ML algorithms
+
+###🌐 Neovatech Official Website
+Corporate website development and optimization
+
+📈 30% increase in site traffic within first month
+⚡ 40% improvement in UI responsiveness
+🎨 Clean, scalable frontend designs
+🚀 Streamlined codebase for faster delivery
+👥 Contributed to 5+ client project pages
+Role: Web Development Intern (Jan 2025 - April 2025)
+Tech Stack: React.js, Next.js, JavaScript, CSS
+
+###🧳 Expocity Travels - CRM & Website
+Complete digital transformation project
+
+💼 CRM System: Built from scratch to handle 200+ leads/month
+🔄 Website Migration: WordPress to Next.js (45% faster load time)
+👥 Team Leadership: Managed remote team of 3+ developers
+🐛 Quality Assurance: <5% post-deployment bugs
+📊 Database: Custom SQL database for lead management
+Role: Freelance Lead Developer (December 2024)
+Tech Stack: Next.js, React.js, SQL, Node.js, Express
+
+###♻️ EcoSort - Smart Waste Sorting Platform
+AI-powered waste classification and management system
+
+🤖 Computer Vision model for automatic waste categorization
+♻️ Smart sorting into Recyclable, Organic, and Hazardous categories
+📊 Real-time waste analytics and environmental impact tracking
+🌱 Carbon footprint calculator and sustainability metrics
+📱 Mobile-responsive interface for easy waste logging
+🏆 Promotes environmental awareness and proper waste disposal
+Tech Stack: React.js, Python, TensorFlow, OpenCV, Node.js, MongoDB
+
+###📚 AI Exam Prep - PDF Summarizer
+Intelligent study companion with AI-powered summarization
+
+🧠 Advanced NLP for PDF content extraction and summarization
+📄 Multi-format document support (PDF, DOCX, TXT)
+⚡ Quick key points extraction for efficient studying
+🎯 Topic-wise content organization and tagging
+💡 Smart quiz generation from summarized content
+📊 Study progress tracking and performance analytics
+
+
+###🤖 AI-Based Learning Platform
+Personalized educational experience with AI integration
+
+🎓 Adaptive learning paths based on user performance
+🧠 AI-powered content recommendations and difficulty adjustment
+📝 Automated assignment generation and grading system
+💬 Intelligent tutoring chatbot for instant doubt resolution
+📊 Comprehensive analytics dashboard for learning insights
+👥 Collaborative learning features with peer interaction
+Tech Stack: Next.js, Auth , GroQ API, Node.js, PostgreSQL
 ---
 
 ## 🎯 Competitive Programming
@@ -154,9 +219,9 @@
 
 </div>
 
-<!-- Snake eating my contributions -->
-<div align="center">
-  
-![Snake animation](https://github.com/ishangupta-ds/ishangupta-ds/blob/output/github-contribution-grid-snake.svg)
-
+🔥 Contribution Streak & Stats
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishangupta-ds&theme=tokyonight" alt="Profile Summary"/>
+💻 Most Used Languages Over Time
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishangupta-ds&theme=tokyonight" alt="Top Languages by Commits"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishangupta-ds&theme=tokyonight" alt="Top Languages by Repos"/>
 </div>
