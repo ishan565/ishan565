@@ -156,8 +156,8 @@ Personalized educational experience with AI integration
 - 🎓 Adaptive learning paths based on user performance
 - 🧠 AI-powered content recommendations and difficulty adjustment
 - 📝 Automated assignment generation and grading system
--💬 Intelligent tutoring chatbot for instant doubt resolution
--📊 Comprehensive analytics dashboard for learning insights
+- 💬 Intelligent tutoring chatbot for instant doubt resolution
+- 📊 Comprehensive analytics dashboard for learning insights
 - 👥 Collaborative learning features with peer interaction
 - Tech Stack: Next.js, Auth , GroQ API, Node.js, PostgreSQL
   
