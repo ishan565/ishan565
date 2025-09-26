@@ -9,11 +9,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 🚀 About Me
-- 🎓 **B.Tech Computer Science** at Punjab Engineering College, Chandigarh
+- 🎓 Pre Final Year Student **B.Tech Computer Science** at Punjab Engineering College, Chandigarh
 - 💻 **Full Stack Developer** with expertise in React, Next.js, Node.js
 - 🤖 **AI/ML Enthusiast** building intelligent solutions
 - 📊 **Data Science** and analytics passionate
-- 🎯 Currently working as **Web Development Intern** at Neovatech
+- 🎯 Incoming **Software Development & Integrations Intern** at Cvent
 - 🌱 Learning advanced **Machine Learning** and **Cloud Technologies**
 - ⚡ Fun fact: I love solving algorithmic challenges and building user-centric applications
 
@@ -127,10 +127,10 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-ishangupta.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishan-gupta-ds)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-gupta-7b1078281/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishangupta565@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/ishangupta565)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishangupta-ds)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/ishan_565)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishan565)
 
 </div>
 
@@ -148,7 +148,7 @@
 
 <div align="center">
   
-### ⭐ From [ishangupta-ds](https://github.com/ishangupta-ds)
+### ⭐ From [ishan565](https://github.com/ishan565)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ishangupta-ds&label=Profile%20views&color=0e75b6&style=flat)
 
