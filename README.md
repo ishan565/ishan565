@@ -107,7 +107,7 @@
 
 </div>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ishangupta565?theme=dark&font=Nunito&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ishan_565?theme=dark&font=Nunito&ext=contest)
 
 ---
 
@@ -136,7 +136,7 @@
 
 ---
 
-## 💡 Random Dev Quote
+## 💡 Thoughts
 
 <div align="center">
 
