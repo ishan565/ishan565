@@ -1,16 +1,162 @@
-## Hi there 👋
+# Hi there, I'm Ishan Gupta! 👋
 
-<!--
-**ishan565/ishan565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Open+Source+Contributor)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+### 🚀 About Me
+- 🎓 **B.Tech Computer Science** at Punjab Engineering College, Chandigarh
+- 💻 **Full Stack Developer** with expertise in React, Next.js, Node.js
+- 🤖 **AI/ML Enthusiast** building intelligent solutions
+- 📊 **Data Science** and analytics passionate
+- 🎯 Currently working as **Web Development Intern** at Neovatech
+- 🌱 Learning advanced **Machine Learning** and **Cloud Technologies**
+- ⚡ Fun fact: I love solving algorithmic challenges and building user-centric applications
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Databases
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishangupta-ds&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishangupta-ds&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishangupta-ds&theme=tokyonight)
+
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+### 🔬 [DermaScan-AI](https://github.com/ishangupta-ds/DermaScan-AI)
+**AI-powered skin cancer detection system**
+- 🎯 92% accuracy in detecting Benign vs Malignant cases
+- 🚀 Built with React.js, Node.js, TensorFlow.js
+- 📱 Real-time browser-based ML inference
+- 🌍 Geolocation integration for accessibility
+
+### 📚 [NextGen Student Companion - Attendify](https://attendify-hosted-app.vercel.app/)
+**AI-powered attendance tracking system**
+- 🤖 Smart chatbot integration
+- 📊 Real-time analytics and interactive charts
+- 👥 Helped 100+ students track attendance
+- 🔐 Secure authentication system
+
+### 📈 [Credit Risk Analysis Dashboard](https://github.com/ishangupta-ds/credit-risk-analysis)
+**Interactive PowerBI dashboard for loan performance**
+- 📊 Visualized 1,000+ loan records
+- ⚡ 3x faster insights extraction
+- 📈 DTI and delinquency trend analysis
+- 🎯 Advanced DAX measures and KPIs
+
+---
+
+## 🎯 Competitive Programming
+
+<div align="center">
+  
+[![LeetCode](https://img.shields.io/badge/LeetCode-255%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ishangupta565)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1300%2B%20Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ishangupta565)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ishangupta565)
+
+</div>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ishangupta565?theme=dark&font=Nunito&ext=contest)
+
+---
+
+## 🏅 Achievements & Experience
+
+- 🥇 **Smart India Hackathon 2024** - Developed full-stack career counselling platform
+- 💼 **Web Development Intern** at Neovatech (Jan 2025 - April 2025)
+- 🚀 **Freelance Lead Developer** at Expocity Travels
+- 📈 Increased website traffic by **30%** and improved UI responsiveness by **40%**
+- 👥 Led remote team of 3+ developers with <5% post-deployment bugs
+- 🎓 **Advanced Learning Algorithms** - Coursera Certified
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-ishangupta.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishan-gupta-ds)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishangupta565@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/ishangupta565)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishangupta-ds)
+
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+  
+### ⭐ From [ishangupta-ds](https://github.com/ishangupta-ds)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ishangupta-ds&label=Profile%20views&color=0e75b6&style=flat)
+
+</div>
+
+<!-- Snake eating my contributions -->
+<div align="center">
+  
+![Snake animation](https://github.com/ishangupta-ds/ishangupta-ds/blob/output/github-contribution-grid-snake.svg)
+
+</div>
