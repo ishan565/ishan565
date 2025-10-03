@@ -117,7 +117,7 @@ Corporate website development and optimization
 - Role: Web Development Intern (Jan 2025 - April 2025)
 - Tech Stack: React.js, Next.js, JavaScript, CSS
 
-### 🧳 Expocity Travels - CRM & Website
+### 🧳 [Expocity Travels - CRM & Website](https://expocity.vercel.app/)
 Complete digital transformation project
 
 - 💼 CRM System: Built from scratch to handle 200+ leads/month
