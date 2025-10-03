@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 🚀 About Me
-- 🎯 Incoming **Software Development & Integrations SUMMER 2026 Intern** at [DermaScan-AI](https://www.linkedin.com/company/cvent/posts/?feedView=all)
+- 🎯 Incoming **Software Development & Integrations SUMMER 2026 Intern** at [CVENT](https://www.linkedin.com/company/cvent/posts/?feedView=all)
 - 🎓 Pre Final Year Student **B.Tech Computer Science** at Punjab Engineering College, Chandigarh
 - 💻 **Full Stack Developer** with expertise in React, Next.js, Node.js
 - 🤖 **AI/ML Enthusiast** building intelligent solutions
