@@ -106,7 +106,8 @@ Full-stack personalized career guidance system
 - 🏆 Achievement: Selected for Smart India Hackathon 2024
 - Tech Stack: React.js, Node.js, Express, MongoDB, ML algorithms
 
-### 🌐 Neovatech Official Website
+### 🌐 [Neovatech Official Website](https://www.neovatech.in/)
+**Interactive PowerBI dashboard for loan performance**
 Corporate website development and optimization
 
 - 📈 30% increase in site traffic within first month
@@ -128,7 +129,7 @@ Complete digital transformation project
 - Role: Freelance Lead Developer (December 2024)
 - Tech Stack: Next.js, React.js, SQL, Node.js, Express
 
-### ♻️ EcoSort - Smart Waste Sorting Platform
+### ♻️ [EcoSort - Smart Waste Sorting Platform](https://ai-waste-frontend.vercel.app/)
 AI-powered waste classification and management system
 
 - 🤖 Computer Vision model for automatic waste categorization
@@ -139,7 +140,7 @@ AI-powered waste classification and management system
 - 🏆 Promotes environmental awareness and proper waste disposal
 - Tech Stack: React.js, Python, TensorFlow, OpenCV, Node.js, MongoDB
 
-### 📚 AI Exam Prep - PDF Summarizer
+### 📚 [AI Exam Prep - PDF Summarizer](https://ai-summariser-swart.vercel.app/)
 - Intelligent study companion with AI-powered summarization
 
 - 🧠 Advanced NLP for PDF content extraction and summarization
