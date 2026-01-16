@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 🚀 About Me
-- 🎯 Incoming **Software Development & Integrations SUMMER 2026 Intern** at [CVENT](https://www.linkedin.com/company/cvent/posts/?feedView=all)
+- 🎯 **Software (Development & Integrations) 2026 Intern** at [CVENT](https://www.linkedin.com/company/cvent/posts/?feedView=all)
 - 🎓 Pre Final Year Student **B.Tech Computer Science** at Punjab Engineering College, Chandigarh
 - 💻 **Full Stack Developer** with expertise in React, Next.js, Node.js
 - 🤖 **AI/ML Enthusiast** building intelligent solutions
@@ -74,21 +74,21 @@
 
 ## 🏆 Featured Projects
 
-### 🔬 [DermaScan-AI](https://github.com/ishangupta-ds/DermaScan-AI)
+### 🔬 [DermaScan-AI](https://github.com/ishan565/dermaScan)
 **AI-powered skin cancer detection system**
 - 🎯 92% accuracy in detecting Benign vs Malignant cases
 - 🚀 Built with React.js, Node.js, TensorFlow.js
 - 📱 Real-time browser-based ML inference
 - 🌍 Geolocation integration for accessibility
 
-### 📚 [NextGen Student Companion - Attendify](https://attendify-hosted-app.vercel.app/)
+### 📚 [NextGen Student Companion - Attendify](https://attendify-ishan.vercel.app/)
 **AI-powered attendance tracking system**
 - 🤖 Smart chatbot integration
 - 📊 Real-time analytics and interactive charts
 - 👥 Helped 100+ students track attendance
 - 🔐 Secure authentication system
 
-### 📈 [Credit Risk Analysis Dashboard](https://github.com/ishangupta-ds/credit-risk-analysis)
+### 📈 [Credit Risk Analysis Dashboard](https://github.com/ishan565/Visual-Analytics-of-Loan-Behavior-and-Credit-Metrics)
 **Interactive PowerBI dashboard for loan performance**
 - 📊 Visualized 1,000+ loan records
 - ⚡ 3x faster insights extraction
