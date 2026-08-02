@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 🚀 About Me
-- 🎯 **Software (Development & Integrations) 2026 Intern** at [CVENT](https://www.linkedin.com/company/cvent/posts/?feedView=all)
+- 🎯 **Software (Development & Integrations) 2026 Intern** at [CVENT India Pvt. Ltd.](https://www.linkedin.com/company/cvent/posts/?feedView=all)
 - 🎓 Pre Final Year Student **B.Tech Computer Science** at Punjab Engineering College, Chandigarh
 - 💻 **Full Stack Developer** with expertise in React, Next.js, Node.js
 - 🤖 **AI/ML Enthusiast** building intelligent solutions
@@ -203,17 +203,6 @@ Personalized educational experience with AI integration
 
 ---
 
-## 💡 Thoughts
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
   
 ### ⭐ From [ishan565](https://github.com/ishan565)
 
