@@ -168,8 +168,8 @@ Personalized educational experience with AI integration
 
 <div align="center">
   
-[![LeetCode](https://img.shields.io/badge/LeetCode-255%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ishan_565)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1300%2B%20Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ishangupta565)
+[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ishan_565)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1100%2B%20Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ishangupta565)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ishangupta565)
 
 </div>
