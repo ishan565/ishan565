@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#recent-builds">Recent builds</a> &nbsp;·&nbsp;
   <a href="#featured-work">Featured projects</a> &nbsp;·&nbsp;
-  <a href="https://portfolio-ishangupta.vercel.app/">Portfolio ↗</a> &nbsp;·&nbsp;
+  <a href="https://latest-portfolio-nine-psi.vercel.app/">Portfolio ↗</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/ishan-gupta-7b1078281/">LinkedIn ↗</a>
 </p>
 
@@ -212,7 +212,7 @@ Personalized educational experience with AI integration
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-ishangupta.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://latest-portfolio-nine-psi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-gupta-7b1078281/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishangupta565@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/ishan_565)
