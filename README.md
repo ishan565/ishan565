@@ -6,6 +6,13 @@
 
 </div>
 
+<p align="center">
+  <a href="#recent-builds">Recent builds</a> &nbsp;·&nbsp;
+  <a href="#featured-work">Featured projects</a> &nbsp;·&nbsp;
+  <a href="https://latest-portfolio-nine-psi.vercel.app/">Portfolio ↗</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/ishan-gupta-7b1078281/">LinkedIn ↗</a>
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 🚀 About Me
@@ -16,6 +23,17 @@
 - 📊 **Data Science** and analytics passionate
 - 🌱 Learning advanced **Machine Learning** and **Cloud Technologies**
 - ⚡ Fun fact: I love solving algorithmic challenges and building user-centric applications
+
+---
+
+<a name="recent-builds"></a>
+## ⚡ Recent Builds
+
+| Project | What you can explore |
+| :--- | :--- |
+| 🚦 **[Neuro-Fuzzy Traffic Controller](https://github.com/ishan565/neuro-fuzzy-traffic-controller)** | Watch a simulated four-way intersection adapt its green lights as traffic builds or an ambulance approaches. Compare a **28-rule fuzzy controller** with a **TensorFlow neural network** on the same scenarios. |
+| 🧭 **[TalentTrail](https://github.com/ishan565/TalentTRAIL)** | See how a résumé matches a job description, which skills are missing, and what contributed to the score. **LangGraph** coordinates the workflow behind a **FastAPI** backend. |
+| 🪐 **[DecisionAI](https://github.com/ishan565/DecisionAI-RAG-GenAI-)** | Explore how changing preferences can change a laptop recommendation. A **Spring Boot** backend retrieves relevant context and scores the options, while **React** shows the result. |
 
 ---
 
@@ -72,6 +90,7 @@
 
 ---
 
+<a name="featured-work"></a>
 ## 🏆 Featured Projects
 
 ### 🔬 [DermaScan-AI](https://github.com/ishan565/dermaScan)
@@ -193,7 +212,7 @@ Personalized educational experience with AI integration
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-ishangupta.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://latest-portfolio-nine-psi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-gupta-7b1078281/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishangupta565@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/ishan_565)
