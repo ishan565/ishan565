@@ -37,6 +37,16 @@
 
 ---
 
+## 🤝 Open Source Contributions
+
+[![unslop-anything PR 308](https://img.shields.io/badge/unslop--anything-PR%20%23308-238636?logo=github&style=flat-square)](https://github.com/erkamyaman/unslop-anything/pull/308)
+Added a missing-alt check for PrimeNG images in Angular templates.
+
+[![rea-games PR 126](https://img.shields.io/badge/rea--games-PR%20%23126-2563eb?logo=github&style=flat-square)](https://github.com/erkamyaman/rea-games/pull/126)
+Fixed the first tap on a Mines board when Flag mode is on, including after a reset.
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
